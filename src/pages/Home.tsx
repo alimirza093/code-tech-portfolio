@@ -13,7 +13,7 @@ export default function Home() {
           <div>
             <div className="badge">Digital Innovation &amp; Development</div>
             <h1 className="mt-6 page-title text-[var(--graphite)]">
-              Building <span className="text-[var(--royal)]">Digital Experiences</span> That Drive Growth.
+              WE BUILD WHAT <span className="text-[var(--royal)]">YOUR COMPETITORS</span> WISH THEY HAD
             </h1>
             <p className="mt-6 max-w-xl text-lg text-[var(--muted)]">
               We help businesses turn ambitious ideas into powerful digital products through innovative development,
